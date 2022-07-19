@@ -1,0 +1,84 @@
+.div1 {
+    padding-left: 180px;
+    padding-right: 180px;
+    background-color: #5e068a;
+    color: white;
+    font-size: large
+}
+
+.navbar-nav a {
+    color: black;
+    font-size: large;
+
+}
+
+.carousel-caption{
+  
+    top:0;
+}
+
+.carousel-inner img{
+    height: 700px;
+}
+.maintopic{
+    padding-top: 70px;
+    font-size: 90px;
+    text-align: left;
+    line-height: 95px;
+
+}
+.main{
+    text-align: left;
+    font-size: x-large;
+}
+
+.carobutton{
+    float: left;
+    background-color: #5e068a;
+    font-size: 25px;
+    color: white;
+    border-radius: 90px;
+    padding: 30px 40px 30px 40px;  
+    font-weight: 500;
+}
+
+.div3{
+    margin-top: 80px;
+}
+
+.head1{
+    color: #5e068a;
+}
+
+.body1{
+    font-size: 22px;
+    line-height: 32px;
+
+}
+.card1{
+    height: 600px;
+}
+.card:hover{
+    width:100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.head{
+    text-align: center;
+    color:#5e068a;
+    padding: 30px;
+}
+
+.btn1{
+    margin-top: 30px;
+    background-color: #5e068a;
+    font-size: x-large;
+    margin-left: 15px;
+}
+.card-title{
+    font-size: xx-large;
+    margin-left: 15px;
+}
+.card-text{
+    font-size: large;
+    margin-left: 15px;
+}
